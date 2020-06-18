@@ -1,0 +1,27 @@
+.top-buffer{
+	
+	margin-top: 50px;
+}
+.formz{
+	background-image: url('IMG/bgdd.png'); 
+	color: white;
+}
+.Tbl{
+	font-family:Arial, Helvetica, sans-serif;
+	color:#4DA0B3;
+	font-size:20px;
+	text-align: center;
+}
+.icon{
+	text-align: center;
+}
+.prg{
+	text-align: center;
+	
+	
+}
+.footer{
+	background-color: #000000;
+	color:white;
+}
+	
